@@ -1,0 +1,44 @@
+
+h1#a{
+    margin-left: 40%;
+}
+
+div#botonera{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: fit-content;
+    gap: 8px;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+div#formulario_css{
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    align-items: center;
+    margin-left: 40%;
+}
+
+label{
+font-family:'Times New Roman', Times, serif
+}
+
+div#print_dom{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+li{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(173, 136, 251, 0.75) 35%, rgba(166, 6, 229, 0.77) 100%);
+}
